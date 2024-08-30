@@ -1,0 +1,10 @@
+{
+  "name": "screen-sharing-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "os": "^0.1.1",
+    "screenshot-desktop": "^1.15.0",
+    "ws": "^8.7.0"
+  }
+}
